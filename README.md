@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bulletproof-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bulletproof Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bulletproof-love/) |
+| **Get License** | [Music Rights & Licensing for Bulletproof Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bulletproof-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20184da121d19014c82f815fa50b41dffcaefaa014ae88159e257c1b7b30706b` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
