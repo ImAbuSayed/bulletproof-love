@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri nigaah da nasha main peenda haan daily
+> Mera bulletproof love chamkda ae brightly
+> Tere pichhe main aunda haan chad ke zamaana
+> Sari duniya bhull jaava tu ae my thikana
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
